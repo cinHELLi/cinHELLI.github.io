@@ -1,5 +1,5 @@
 # Hydejack Starter Kit
-cinHELLi version 2.0
+
 A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
 ## Quick Start
