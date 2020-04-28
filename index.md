@@ -5,4 +5,11 @@ layout: about
 title: Welcome to cinHELLi
 ---
 
-Something about me
+# Contacts
+
+Email us at: (matteoDOTcinelliATgmail.com)
+<!-- Twitter: "@wwcs2020" -->
+
+
+<center>
+<a class="twitter-timeline" data-width="300" data-height="550" href="https://twitter.com/matteo_cinelli">Tweets by wwcs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </center>
