@@ -8,7 +8,9 @@ title: Welcome to cinHELLi
 Matteo Cinelli is a post-doc researcher at ISC-CNR. His background is in Management Engineering and he obtained a PhD in Enterprise Engineering from the University of Rome “Tor Vergata”. His research interests include network science, computational social science and complex economics. Matteo Cinelli is an active member of the Complex Systems Society and he is part of the advisory board of the young researchers of the Complex Systems Society.
 {: style="text-align: justify"}
 
-<br/>
+
+[<img src="/assets/image/Selection_040.png" width="40%" />]
+
 
 ## Contacts
 
