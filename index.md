@@ -9,8 +9,10 @@ Matteo Cinelli is a post-doc researcher at ISC-CNR. His background is in Managem
 {: style="text-align: justify"}
 
 
-[<img src="/assets/image/Selection_040.png" width="40%" />]
+[<img src="/assets/img/Selection_040.png" width="40%" />]
 
+
+The list of my publications is available at my Google scholar profile while the list of journals I served as reviewer is available at my Publons profile.
 
 ## Contacts
 
