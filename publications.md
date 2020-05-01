@@ -8,9 +8,9 @@ Check my Google Scholar profile for the list of papers I co-authored.
 This is the list of my publications.
 
 **M. Cinelli**, E. Brugnoli, F. Zollo, W. Quattrociocchi & A. Scala,
-Selective exposure shapes the facebook news diet. PLOS ONE 15 (3), 1-17
+[Selective exposure shapes the facebook news diet](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229129). PLOS ONE 15 (3), 1-17
 
-**M. Cinelli**. Ambiguity of network outcomes. Accepted in Journal of Business Research.
+**M. Cinelli**. <a href="/assets/files/10.1016@j.jbusres.2020.02.031.pdf">Ambiguity of network outcomes.</a> Accepted in Journal of Business Research.
 
 E. Brugnoli, **M. Cinelli**, W. Quattrociocchi, & A. Scala. Recursive patterns in online echo chambers. Scientific Reports, 9, 2019.
 
