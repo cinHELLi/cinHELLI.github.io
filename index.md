@@ -16,11 +16,11 @@ Matteo Cinelli is a post-doc researcher at ISC-CNR. His background is in Managem
 
 The list of my publications is available at my [Google scholar](https://scholar.google.it/citations?user=3qOq_28AAAAJ&hl=it) profile while the list of journals I served as reviewer is available at my [Publons](https://publons.com/researcher/1318976/matteo-cinelli/) profile.
 
-## Contacts
-
+### Contacts
 Email me at: matteoDOTcinelliATgmail.com
 <!-- Twitter: "@wwcs2020" -->
 
+<br/>
 
 <center>
 <a class="twitter-timeline" data-width="300" data-height="550" href="https://twitter.com/matteo_cinelli">Tweets by wwcs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </center>
