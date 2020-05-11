@@ -26,10 +26,10 @@ E. Brugnoli, **M. Cinelli**, W. Quattrociocchi, & A. Scala. [Recursive patterns 
 
 **M. Cinelli**, G. Ferraro & A. Iovanella, <a href="/assets/files/Rich-club ordering and the dyadic effect_Two interrelated phenomena.pdf">Rich-club ordering and the dyadic effect: Two interrelated phenomena</a>. Physica A: Statistical Mechanics and its Applications, 490:808-818, 2018.
 
-**M. Cinelli**, G. Ferraro & A. Iovanella, Resilience of Core-Periphery Networks in the Case of Rich-Club. Complexity, article ID 6548362, 2017.
+**M. Cinelli**, G. Ferraro & A. Iovanella, [Resilience of Core-Periphery Networks in the Case of Rich-Club](http://downloads.hindawi.com/journals/complexity/2017/6548362.pdf). Complexity, article ID 6548362, 2017.
 
-**M. Cinelli**, G. Ferraro & A. Iovanella, Structural bounds on the dyadic effect. Journal of Complex Networks, 5(5):694-711, 2017.
+**M. Cinelli**, G. Ferraro & A. Iovanella, <a href="/assets/files/Structural Bounds on the Dyadic Effect.pdf">Structural bounds on the dyadic effect</a>. Journal of Complex Networks, 5(5):694-711, 2017.
 
-**M. Cinelli**, G. Ferraro, A. Iovanella, G. Lucci & M.M. Schiraldi A Network Perspective on the Visualization and Analysis of
-Bill of Materials. International Journal of Engineering Business Management, 2017.
+**M. Cinelli**, G. Ferraro, A. Iovanella, G. Lucci & M.M. Schiraldi [A Network Perspective on the Visualization and Analysis of
+Bill of Materials](https://journals.sagepub.com/doi/pdf/10.1177/1847979017732638). International Journal of Engineering Business Management, 2017.
 %\url{https://doi.org/10.1177/1847979017732638}, 2017.
